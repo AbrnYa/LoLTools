@@ -5,13 +5,13 @@
   },
   {
     "label": "op.gg-aram",
-    "value": "op.gg-aram",
+    "value": "op.gg-极地大乱斗",
     "isAram": true
   },
   {
     "label": "op.gg-urf",
-    "value": "op.gg-urf",
-    "isURF": true
+    "value": "op.gg-无限火力",
+    "isURF": false
   },
   {
     "label": "lolalytics.com",
@@ -19,7 +19,7 @@
   },
   {
     "label": "lolalytics.com-aram",
-    "value": "lolalytics-aram",
+    "value": "lolalytics-极地大乱斗",
     "isAram": true
   },
   {
